@@ -1,0 +1,55 @@
+nav{
+    display: flex;
+    justify-content:space-around;
+    background-color: rgb(0, 0, 0);
+   margin-top: 0;
+}
+.a{ text-decoration: none;
+    color: rgb(0, 0, 255);
+}
+    .v{ text-decoration: none;
+    color: rgb(38, 255, 0);
+}
+    .d{ text-decoration: none;
+    color: rgb(255, 0, 81);
+}
+    .t{ text-decoration: none;
+    color: rgb(225, 255, 0);
+}
+    .o{ text-decoration: none;
+    color: rgb(255, 123, 0);
+}
+body{
+    background-image:url(https://img.magnific.com/free-vector/trendy-retro-synth-line-perspective-wallpaper-with-smoke-effect_1017-43048.jpg?semt=ais_hybrid&w=740&q=80);
+    background-size: cover;
+    background-repeat:no-repeat;
+    margin:0;
+}
+h1{color: aqua;
+    position: relative;
+    top:-22px;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fdH_q5bcj9JNOww-MKVhCX5f0VaLQai4uQ&s);
+
+    
+}
+main{
+    height:75vh;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+}
+.info{
+    width:500px;
+    padding:20px;
+    background-color: rgba(0,0,0,0.6);
+}
+a{padding: 20px;
+    margin:0;
+}
+footer{
+    background-color: purple;
+    color:white;
+    padding:15px;
+}
